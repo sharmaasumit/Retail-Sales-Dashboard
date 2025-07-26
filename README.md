@@ -1,8 +1,8 @@
 
-# Retail Sales Dashboard
+# Retail-Sales-Dashboard
 
 ## Overview
-The *Retail Sales Dashboard* provides a comprehensive overview of retail performance, empowering users to analyze and visualize sales data effectively.
+The *Retail-Sales-Dashboard* provides a comprehensive overview of retail performance, empowering users to analyze and visualize sales data effectively.
 
 Key insights include:
 - *Total Sales and Profit:* High-level summary metrics for overall business health.
@@ -20,7 +20,7 @@ Key insights include:
      - Standardizing category and region values
      - Formatting date and currency columns
      - Handling missing or inconsistent data
-   - Data cleaning can be done using Python (pandas), Excel, or other ETL tools.
+   - Data cleaning can be done using Excel
 3. *Dashboard Visualization*
    - Import the cleaned data into *Power BI*.  
    - Explore interactive visualizations and dashboards for actionable insights.
@@ -36,7 +36,7 @@ Key insights include:
 
 ## Tech Stack
 
-- *Data Cleaning:* Python (pandas), Excel
+- *Data Cleaning:* Excel
 - *Visualization:* Power BI
 - *Supported Formats:* Excel (.xlsx), CSV (.csv)
 
@@ -48,7 +48,7 @@ Key insights include:
    
 2. *Prepare Your Data:*
    - Place your sales data file (.xlsx or .csv) in the designated folder.
-   - (Optional) Run the provided Python script or follow Excel instructions to clean and format your data.
+   - (Optional) Run the provided Excel instructions to clean and format your data.
 3. *Open the Dashboard:*
    - Launch Power BI Desktop.
    - Load the cleaned data file.
@@ -61,5 +61,7 @@ Key insights include:
 - Export charts and reports as needed for presentations or further analysis.
 
 ## Screenshots
-comming soon
+![Retail-Sales-Dashboard](page 1 Retail Dashboard.jpeg)
+![Retail-Sales-Dashboard](page 2 Retail Dashboard.jpeg)
+![Retail-Sales-Dashboard](page 3 Retail Dashboard.jpeg)
 
