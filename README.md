@@ -61,7 +61,7 @@ Key insights include:
 - Export charts and reports as needed for presentations or further analysis.
 
 ## Screenshots
-https://github.com/sharmaasumit/Retail-Sales-Dashboard/blob/main/page%201%20Retail%20Dashboard.jpeg
+page 1 Retail Dashboard.jpeg
 https://github.com/sharmaasumit/Retail-Sales-Dashboard/blob/main/page%202%20Retail%20Dashboard.jpeg
 https://github.com/sharmaasumit/Retail-Sales-Dashboard/blob/main/page%203%20Retail%20Dashboard.jpeg
 
